@@ -1,0 +1,95 @@
+{
+  "name": "Eyram Dunyoh",
+  "label": "Student Data Analyst and Software Engineer",
+  "image_path": "img/default-image.png",
+  "contact": {
+    "email": "eyramdunyoh4@gmail.com",
+    "phone": "",
+    "location": "Accra, Greater Accra, Ghana"
+  },
+  "summary": "As a Data Analytics and Software Engineering student, I enjoy bridging the gap between data and technology. Whether analyzing trends or developing software, I'm driven by curiosity and the desire to make ideas real through code and data.",
+  "base_url": "https://dunyoh.com",
+  "social_links": [
+    {
+      "label": "Edunyoh.com",
+      "url": "https://dunyoh.com",
+      "svg_path": "img/globe.svg"
+    },
+
+    {
+      "label": "GitHub",
+      "url": "https://github.com/Eyram-00",
+      "svg_path": "img/github.svg"
+    },
+
+    {
+      "label": "Linkedin",
+      "url": "https://www.linkedin.com/in/eyram-dunyoh-432596271",
+      "svg_path": "img/linkedin.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "DDP Outdoor",
+      "position": "Accounting Intern",
+      "url": "https://www.ddpoutdoor.com/",
+      "start_date": "February 2024",
+      "end_date": "April 2024",
+      "summary": "During my internship at DDP Outdoor, I gained practical experience supporting the company's marketing and accounting operations. I learned to perform basic tasks using Oasis marketing software, contributing to campaign management and data organization. I also worked with accounting tools like Tally, developing skills in handling financial records and assisting with routine accounting processes. This experience helped me strengthen my understanding of business operations, software tools, and teamwork in a fast-paced environment.",
+      "highlights": [
+        "Supported marketing and accounting departments at DDP Outdoor during my internship",
+        "Assisted in campaign management and data organization using Oasis marketing software",
+        "Gained hands-on experience with accounting software like Tally for managing financial records",
+        "Contributed to routine accounting tasks including data entry and reconciliation",
+        "Strengthened my understanding of business operations, software tools, and teamwork in a dynamic workplace"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Price Tracker",
+      "summary": "A Python-based tool that monitors the price of a specific product on Jumia and sends email alerts when prices change",
+      "url": "https://github.com/Eyram-00/PriceTracker/tree/main",
+      "highlights": [
+        "Developed an automated price tracker using Python, Selenium, and smtplib",
+        "Integrated real-time web scraping and email alert system to notify users of price changes",
+        "Showcases my skills in automation, web scraping, and connecting Python with external services"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Ghana",
+      "location": "Legon Boundary, Accra",
+      "url": "https://www.ug.edu.gh/",
+      "degrees": [
+        "Bachelor of Science in Administration"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages / Tools",
+      "name": "Python, Django",
+      "proficiency_label": "intermediate"
+    },
+    {
+      "category": "Database / Query Languages",
+      "name": "SQL",
+      "proficiency_label": "Beginner"
+    },
+    {
+      "category": "Data Analytics / Machine Learning",
+      "name": "Pandas, Scikit-learn, Numpy, ML Basics",
+      "proficiency_label": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Bass Guitar",
+      "summary": "I love playing the bass guitar, exploring how rhythm and harmony work together to drive the music. It's a creative outlet that inspires focus, expression, and connection."
+    }
+  ],
+  "languages": [],
+  "references": []
+}
